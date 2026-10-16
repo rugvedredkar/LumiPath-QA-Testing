@@ -1,0 +1,9 @@
+FICTIONAL DOCUMENT FOR SOFTWARE TESTING. NOT REAL DATA.
+
+Study ZX-204 Summary
+Study ZX-204 is a Phase 2, randomized, double-blind, placebo-controlled trial of the fictional oral drug zorvatinib in adults with moderate-to-severe plaque psoriasis.
+Sponsor: Northwind Biotech (fictional). Study start: 14 January 2026. Planned sample size: 240 participants, randomized 1:1 to zorvatinib 30 mg once daily or placebo.
+Primary endpoint: proportion of participants achieving PASI 75 at Week 12.
+Key secondary endpoints: sPGA 0 or 1 at Week 12, and change in DLQI from baseline to Week 12.
+Treatment duration: 12 weeks, followed by a 4-week safety follow-up.
+Main exclusion criteria: active tuberculosis, pregnancy, eGFR below 45 mL/min/1.73 m2, and prior treatment with any JAK inhibitor.

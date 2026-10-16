@@ -1,0 +1,941 @@
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and plaque psoriasis (diagnosed 2011), presented on 03 March 2026 with three weeks of progressive fatigue, polyuria and a new burning sensation in both feet. He reported unintentional weight loss of 4 kg over two months.
+
+Medications at presentation: metformin 1000 mg twice daily (since 2012), empagliflozin 10 mg once daily (started Jan 2025), lisinopril 20 mg once daily, atorvastatin 40 mg at night, and methotrexate 15 mg once weekly for psoriasis (since June 2023). He stopped taking folic acid in December 2025 because of nausea. Allergy: penicillin (rash, childhood).
+
+Examination: BP 152/94 mmHg, HR 88 bpm, temperature 36.9 C, BMI 33.1. Reduced vibration sense in both feet, no ulcers. Psoriatic plaques on elbows and scalp, about 6 percent body surface area.
+
+Labs 03 March 2026: HbA1c 9.4 percent (was 7.8 percent in September 2025), fasting glucose 238 mg/dL, creatinine 1.5 mg/dL (baseline 1.1), eGFR 52, ALT 58 U/L, AST 41 U/L, CRP 12 mg/L, urine albumin/creatinine ratio 180 mg/g. LDL 118 mg/dL.
+
+Assessment by the treating physician: suboptimal glycaemic control with probable early diabetic neuropathy and declining renal function. Possible contribution from methotrexate to the raised ALT; renal function to be rechecked before continuing methotrexate. Plan: increase metformin review given eGFR, repeat labs in two weeks, refer to ophthalmology for retinal screening, dietitian referral.
+
+Follow-up 17 March 2026: creatinine 1.3 mg/dL, ALT 44 U/L. Patient reports feet symptoms unchanged. Methotrexate dose reduced to 10 mg weekly. Empagliflozin continued. Patient later reported on 02 April 2026 two episodes of dizziness on standing.
+
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Mr. A, a 58-year-old man with a 14-year history of type 2 diabetes mellitus, hypertension and pl

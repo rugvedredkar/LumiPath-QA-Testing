@@ -1,0 +1,21 @@
+patient_name,email,mrn,date_of_birth,arm,age,sex,bmi,hba1c_baseline,hba1c_week12,fasting_glucose_mgdl,crp_mgl,response
+Fake Person S001,s001@example.test,MRN630216,1980-01-01,Placebo,33,F,28.0,8.37,8.17,153,2.8,Non-responder
+Fake Person S002,s002@example.test,MRN677816,1980-01-01,Treatment,51,M,27.5,7.62,6.7,201,2.66,Responder
+Fake Person S003,s003@example.test,MRN298659,1980-01-01,Treatment,64,F,22.2,6.63,5.09,151,4.37,Responder
+Fake Person S004,s004@example.test,MRN639214,1980-01-01,Placebo,50,M,31.3,8.48,8.38,123,1.43,Non-responder
+Fake Person S005,s005@example.test,MRN597822,1980-01-01,Treatment,61,F,26.7,7.95,7.5,192,1.07,Non-responder
+Fake Person S006,s006@example.test,MRN357613,1980-01-01,Placebo,73,M,25.8,7.73,8.04,150,2.79,Non-responder
+Fake Person S007,s007@example.test,MRN568771,1980-01-01,Treatment,68,M,29.3,7.83,6.55,198,1.97,Responder
+Fake Person S008,s008@example.test,MRN211444,1980-01-01,Treatment,31,M,25.7,7.66,6.54,185,3.24,Responder
+Fake Person S009,s009@example.test,MRN790298,1980-01-01,Treatment,66,M,33.5,8.74,7.86,111,1.56,Responder
+Fake Person S010,s010@example.test,MRN958700,1980-01-01,Placebo,28,M,23.9,9.36,8.04,161,1.68,Responder
+Fake Person S011,s011@example.test,MRN781685,1980-01-01,Placebo,65,M,23.7,7.56,6.51,181,3.42,Responder
+Fake Person S012,s012@example.test,MRN553171,1980-01-01,Treatment,63,M,29.6,8.43,7.45,181,2.76,Responder
+Fake Person S013,s013@example.test,MRN788400,1980-01-01,Placebo,55,M,32.8,8.68,7.39,146,2.74,Responder
+Fake Person S014,s014@example.test,MRN619046,1980-01-01,Placebo,46,F,26.6,7.84,7.09,176,2.71,Non-responder
+Fake Person S015,s015@example.test,MRN672424,1980-01-01,Treatment,66,F,29.5,9.23,7.8,153,3.0,Responder
+Fake Person S016,s016@example.test,MRN975156,1980-01-01,Placebo,32,F,32.9,7.8,6.94,107,2.75,Responder
+Fake Person S017,s017@example.test,MRN512180,1980-01-01,Placebo,49,F,27.5,8.45,8.03,157,3.39,Non-responder
+Fake Person S018,s018@example.test,MRN631298,1980-01-01,Treatment,45,F,28.6,7.86,6.62,94,1.43,Responder
+Fake Person S019,s019@example.test,MRN422733,1980-01-01,Treatment,28,M,32.9,7.32,6.45,183,1.01,Responder
+Fake Person S020,s020@example.test,MRN821149,1980-01-01,Treatment,78,M,26.3,5.72,4.72,152,2.15,Responder

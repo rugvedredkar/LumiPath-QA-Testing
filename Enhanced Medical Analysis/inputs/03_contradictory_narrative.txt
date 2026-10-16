@@ -1,0 +1,3 @@
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+The patient is a 45-year-old woman with no past medical history. She has had type 1 diabetes since age 8. She takes no medications, and takes insulin glargine 20 units nightly. Blood pressure was 120/80 and also recorded as 190/110 at the same visit. HbA1c was 6.1 percent and the doctor noted poorly controlled diabetes. She is allergic to sulfa drugs and was prescribed co-trimoxazole, which she tolerated well. Date of visit: 31 February 2026.

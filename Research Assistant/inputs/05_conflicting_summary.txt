@@ -1,0 +1,4 @@
+FICTIONAL DOCUMENT FOR SOFTWARE TESTING. NOT REAL DATA.
+
+Study ZX-204 Update (draft v2)
+The planned sample size for Study ZX-204 has been revised to 300 participants. The primary endpoint is PASI 90 at Week 16. Treatment duration is 16 weeks.

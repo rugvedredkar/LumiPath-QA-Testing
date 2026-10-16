@@ -1,0 +1,3 @@
+FICTIONAL TEST CASE - NOT A REAL PATIENT
+
+Patient: Jane Testperson, DOB 12/05/1971, MRN TEST-000123, phone 555-0100, address 12 Example Street, Faketown. Seen by Dr. Nobody on 10 June 2026 for cough lasting 10 days and mild fever (37.9 C). Chest X-ray: no consolidation. Started amoxicillin 500 mg three times daily for 5 days. Pulse oximetry 97 percent. Advised to return if symptoms worsen.
